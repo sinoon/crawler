@@ -11,4 +11,4 @@
   - 代理池列表可以自动更新，在windows下建立计划任务，可以实时更新代理，在linux下用cron。
   [1]:http://www.okooo.com
 
- **NOTE:**个人学习实例。失误了，把module也传上来了。。。在根目录下有package.json
+ **NOTE:**个人学习实例。
